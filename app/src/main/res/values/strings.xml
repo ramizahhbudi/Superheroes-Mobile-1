@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Batman</string>
+    <string name="description1">Dengan kecerdasan dan penggunaan teknologi yang sangat keren</string>
+    <string name="hero2">Captain America</string>
+    <string name="description2">Berkat pelatihan di militer, dia memiliki kemampuan bertarung dan penggunaan senjata api yang sangat bagus</string>
+    <string name="hero3">Deadpool</string>
+    <string name="description3">Tubuh Deadpool sangat tahan terhadap racun dan obat-obatan, membuatnya hampir tidak mungkin mabuk, serta kebal terhadap semua penyakit.</string>
+    <string name="hero4">Spiderman</string>
+    <string name="description4">Manusia laba-laba dengan kekuatan supernya yang tak tertandingi</string>
+    <string name="hero5">Superman</string>
+    <string name="description5">Mempunyai kemampuan untuk terbang dan membawa benda berat</string>
+    <string name="hero6">Thanos</string>
+    <string name="description6">Memiliki kekuatan super dan badan yang besar</string>
+</resources>
